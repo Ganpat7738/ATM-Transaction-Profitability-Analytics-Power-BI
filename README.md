@@ -1,8 +1,8 @@
 # 🏧 ATM Transaction & Profitability Analytics — Power BI Dashboard
 
 ## 🔗 Project Links
-- **Live Power BI Dashboard:** _Add your Power BI Service link here_
-- **GitHub Repository:** https://github.com/Ganpat7738/atm-transaction-profitability-powerbi
+- **Live Power BI Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiODdkNTg5OTgtOWI2ZC00ZGI5LWFlNjktNTk5OWI0NDVmMmU1IiwidCI6ImFlMTE2MWUxLTI1ODMtNGU2ZS05ZjFkLWIyMzViNGU1NDE3OSJ9
+- **GitHub Repository:** https://github.com/Ganpat7738/ATM-Transaction-Profitability-Analytics-Power-BI
 
 ---
 
